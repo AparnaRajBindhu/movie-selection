@@ -1,0 +1,11 @@
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\bin\Debug\netcoreapp2.0\Project1.deps.json
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\bin\Debug\netcoreapp2.0\Project1.runtimeconfig.json
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\bin\Debug\netcoreapp2.0\Project1.runtimeconfig.dev.json
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\bin\Debug\netcoreapp2.0\Project1.dll
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\bin\Debug\netcoreapp2.0\Project1.pdb
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.csprojAssemblyReference.cache
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.csproj.CoreCompileInputs.cache
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.AssemblyInfoInputs.cache
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.AssemblyInfo.cs
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.dll
+G:\SEMESTER 2\NET\PROJECT\1\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.pdb
